@@ -6,6 +6,4 @@ Made in ~1 month for a university assignment submission, as part of the "Games i
 
 Last commit pushed on February 10th 2024.
 
-![alttext](https://cdn.discordapp.com/attachments/1331665077048315976/1331677881226760263/image.png?ex=67927d2c&is=67912bac&hm=eae2f145714693e8c890f9320469123dd9ce6f9505ebc278c1cbeaf21873b636&)
-
-![alttext](https://cdn.discordapp.com/attachments/1331665077048315976/1331678110885875873/image.png?ex=67927d63&is=67912be3&hm=15310ab63e76d9b5cde222526f6680241f9460c3b17525dbfd7b1ef2a27634ab&)
+![alttext](https://cdn.discordapp.com/attachments/1331665077048315976/1331678730879504427/image.png?ex=67927df6&is=67912c76&hm=33f0e094de8de8f5c5d06f99c9f544af8db0ec801d45af20f00c3b89c010dc8c&)
